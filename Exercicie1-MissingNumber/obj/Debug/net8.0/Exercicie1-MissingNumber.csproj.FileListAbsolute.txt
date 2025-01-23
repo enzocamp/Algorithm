@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\bin\Debug\net8.0\Exercicie1-MissingNumber.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\bin\Debug\net8.0\Exercicie1-MissingNumber.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\bin\Debug\net8.0\Exercicie1-MissingNumber.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\bin\Debug\net8.0\Exercicie1-MissingNumber.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\bin\Debug\net8.0\Exercicie1-MissingNumber.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\refint\Exercicie1-MissingNumber.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\Exercicie1-MissingNumber.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Exercicie1-MissingNumber\obj\Debug\net8.0\ref\Exercicie1-MissingNumber.dll
