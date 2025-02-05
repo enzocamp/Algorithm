@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\bin\Debug\net8.0\Ordenacao.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\bin\Debug\net8.0\Ordenacao.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\bin\Debug\net8.0\Ordenacao.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\bin\Debug\net8.0\Ordenacao.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\bin\Debug\net8.0\Ordenacao.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\refint\Ordenacao.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\Ordenacao.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Ordenacao\obj\Debug\net8.0\ref\Ordenacao.dll
