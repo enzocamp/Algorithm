@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\bin\Debug\net8.0\Recursao-LoopInfinito.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\bin\Debug\net8.0\Recursao-LoopInfinito.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\bin\Debug\net8.0\Recursao-LoopInfinito.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\bin\Debug\net8.0\Recursao-LoopInfinito.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\bin\Debug\net8.0\Recursao-LoopInfinito.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\refint\Recursao-LoopInfinito.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\Recursao-LoopInfinito.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\Recursao-LoopInfinito\obj\Debug\net8.0\ref\Recursao-LoopInfinito.dll

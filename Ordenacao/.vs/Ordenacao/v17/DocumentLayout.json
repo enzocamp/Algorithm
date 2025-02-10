@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\Desenvolvimento\\Algorithm\\Ordenacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|c:\\users\\enzof\\onedrive\\documentos\\documento-pessoal\\desenvolvimento\\algorithm\\ordenacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|c:\\users\\enzof\\onedrive\\documentos\\documento-pessoal\\desenvolvimento\\algorithm\\ordenacao\\methods\\ordenacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|solutionrelative:methods\\ordenacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|c:\\users\\enzof\\onedrive\\documentos\\documento-pessoal\\desenvolvimento\\algorithm\\ordenacao\\methods\\buscarmenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|solutionrelative:methods\\buscarmenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|c:\\users\\enzof\\onedrive\\documentos\\documento-pessoal\\desenvolvimento\\algorithm\\ordenacao\\methods\\ordenacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|solutionrelative:methods\\ordenacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|c:\\users\\enzof\\onedrive\\documentos\\documento-pessoal\\desenvolvimento\\algorithm\\ordenacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0C50DB-7625-4A04-89AB-D815898F7C43}|Ordenacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Ordenacao.cs",
               "DocumentMoniker": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\Desenvolvimento\\Algorithm\\Ordenacao\\Methods\\Ordenacao.cs",
               "RelativeDocumentMoniker": "Methods\\Ordenacao.cs",
               "ToolTip": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\Desenvolvimento\\Algorithm\\Ordenacao\\Methods\\Ordenacao.cs",
               "RelativeToolTip": "Methods\\Ordenacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T01:46:53.074Z",
               "EditorCaption": ""
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EnzoF\\OneDrive\\Documentos\\Documento-Pessoal\\Desenvolvimento\\Algorithm\\Ordenacao\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
