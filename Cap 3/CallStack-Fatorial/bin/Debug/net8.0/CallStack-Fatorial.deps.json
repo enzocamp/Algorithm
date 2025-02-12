@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CallStack-Fatorial/1.0.0": {
+        "runtime": {
+          "CallStack-Fatorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CallStack-Fatorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

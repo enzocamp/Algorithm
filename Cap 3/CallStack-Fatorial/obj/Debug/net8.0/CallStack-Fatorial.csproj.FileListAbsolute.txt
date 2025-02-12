@@ -1,0 +1,15 @@
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\bin\Debug\net8.0\CallStack-Fatorial.exe
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\bin\Debug\net8.0\CallStack-Fatorial.deps.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\bin\Debug\net8.0\CallStack-Fatorial.runtimeconfig.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\bin\Debug\net8.0\CallStack-Fatorial.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\bin\Debug\net8.0\CallStack-Fatorial.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.AssemblyInfoInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.AssemblyInfo.cs
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.sourcelink.json
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\refint\CallStack-Fatorial.dll
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.pdb
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\CallStack-Fatorial.genruntimeconfig.cache
+C:\Users\EnzoF\OneDrive\Documentos\Documento-Pessoal\Desenvolvimento\Algorithm\Cap 3\CallStack-Fatorial\obj\Debug\net8.0\ref\CallStack-Fatorial.dll
